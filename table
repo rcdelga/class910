@@ -1,19 +1,7 @@
 <html>
   <head>
-    <style>
-      html {
-        padding {
-          padding: 0;
-          margin: 0;
-        }
-      }
-      table {
-        padding: 0;
-      }
-      td, tr, th {
-        border: 1px solid black;
-      }
-   </style>
+    <title>Table for class on Sept. 10th</title>
+    <link href="main.css" type="text/css" rel="stylesheet">
   </head>
   <body>
     <table cellspacing="0" cellpadding="10">
